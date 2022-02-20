@@ -22,4 +22,4 @@ Objetivo de desenvolver uma biblioteca de cartões de filmes utilizando React. A
 
 ## Página
 
-<p>Acesse a <a href="">página</a>.</p>
+<p>Acesse a <a href="https://movie-cards-library.vercel.app/">página</a>.</p>
